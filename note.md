@@ -1,6 +1,6 @@
 # 技术选型
   后端接口：leanCloud云服器 修改文件内容2
-  api测试工具：Apifox、postMan
+  api测试工具：Apifox、postMan hot-fix分支，热修分支，添加功能
   组件通信：vuex
   自动化转存数据
   ColorUI、uView
