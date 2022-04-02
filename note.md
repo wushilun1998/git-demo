@@ -6,6 +6,6 @@
   ColorUI、uView
 
 # 移动端app开发
- 1. 原生开发 master分支修改
+ 1. 原生开发 mast
  2. 混合开发 原生开发 + Bridge + web开发
  3. uniapp 跨端开发 vue:uniapp、weex； react：reactNative、taro； 谷歌：fluttr（dart语言+flutter）
